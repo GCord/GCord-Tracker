@@ -2,7 +2,7 @@
 name: Feature request
 about: Suggest an idea for this project
 title: ''
-labels: ''
+labels: Enhancement
 assignees: ''
 
 ---
@@ -20,4 +20,4 @@ assignees: ''
 Add a description
  
 **Alternatives?**
-Any alternatives you have tryed
+Any alternatives you have tried
