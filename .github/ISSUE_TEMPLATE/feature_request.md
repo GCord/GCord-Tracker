@@ -17,7 +17,7 @@ assignees: ''
 ---
  
 **What feature do you want?**
-Add a description
+<!-- Add a description -->
  
-**Alternatives?**
-Any alternatives you have tried
+**Why would you like this?**
+<!-- Detailed reasoning -->
