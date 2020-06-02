@@ -1,3 +1,4 @@
+<a href="https://discord.gg/ABZHntV">![Discord](https://img.shields.io/badge/Discord-GCord_HQ-%232CA5E0?style=for-the-badge&logo=Discord)</a><br>
 # GCord Bot Tracker
 This repo was created for the sole purpose of tracking Issues and Feature Requests for my GCord and its services.
 
