@@ -1,4 +1,7 @@
-<a href="https://discord.gg/ABZHntV">![Discord](https://img.shields.io/badge/Discord-GCord_HQ-%232CA5E0?style=for-the-badge&logo=Discord)</a>    ![rating](https://img.shields.io/badge/rating-★★★★★-brightgreen?style=for-the-badge)
+<a href="https://discord.gg/ABZHntV">![Discord](https://img.shields.io/badge/Discord-GCord_HQ-%232CA5E0?style=for-the-badge&logo=Discord)</a>
+![rating](https://img.shields.io/badge/rating-★★★★★-brightgreen?style=for-the-badge)
+<a href="https://patreon.com/GCord"><img src="https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.herokuapp.com%2FGCord&style=for-the-badge" /> </a>
+
 # GCord Bot Tracker
 This repo was created for the sole purpose of tracking Issues and Feature Requests for my GCord and its services.
 
